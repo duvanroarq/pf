@@ -83,39 +83,38 @@
 > 
 > ## Roles metodológicos
 > 
-> Esta agrupación de roles nos permite **organizar la estructura del trabajo** y evitar posibles desviaciones en la ejecución de las tareas, se pueden considerar **roles organizacionales** dentro del equipo y su único fin es mejorar la **eficiencia y productividad** del equipo de trabajo.
->
-> ### Sprint planner
-> > 
-> > Su rol está enfocado en establecer una planificación dinámica, su objetivo es llevar al equipo a la culminación de las tareas de la semana y proponer acciones para resolver posibles obstáculos.
-> > 
-> > - Revisa junto al grupo los obstáculos y buscan resolverlos.
-> > - Crea las tareas que se realizarán en la semana en el tablero Kanban.
-> > - Pregunta por la asignación de las tareas.
-> 
-> ### Sprint moderator (Es dinámico, cada semana cambia)
-> > 
-> > Su rol está enfocado en dinamizar las reuniones diarias del grupo con el objetivo de **priorizar la ejecución de tareas** del grupo y evitar desviaciones de los objetivos de las reuniones.
-> > 
-> > - Revisar el orden del día acorde a la planificación de tareas.
-> > - Moderar las reuniones del equipo en función de los objetivos de la reunión.
-> > - Evita desviaciones de los objetivos de las reuniones.
-> > - Controlar los tiempos de las reuniones y el respeto por estos espacios.
-> 
-> ### Sprint team
-> 
-> > Todos los miembros del equipo hacen parte del Sprint Team y por lo tanto adquieren las mismas responsabilidad en el cumplimiento de las tareas planteadas.
+> > Esta agrupación de roles nos permite **organizar la estructura del trabajo** y evitar posibles desviaciones en la ejecución de las tareas, se pueden considerar **roles organizacionales** dentro del equipo y su único fin es mejorar la **eficiencia y productividad** del equipo de trabajo.
 > >
-> > - Escogen sus tareas de acuerdo a sus habilidades y compromiso.
-> > - Participan y proponen ideas en las reuniones del equipo.
-> > - Reparten sus tareas adecuadamente y se preocupan por el proyecto.
-
-> 
-> ## Roles Data Science
-> 
-> ### Data Architect
-> 
-> > Diseña y gestiona la arquitectura de los datos para garantizar que se capturen, almacenen, procesen y utilicen de manera eficiente y efectiva.
+> > ### Sprint planner
+> > > 
+> > > Su rol está enfocado en establecer una planificación dinámica, su objetivo es llevar al equipo a la culminación de las tareas de la semana y proponer acciones para resolver posibles obstáculos.
+> > > 
+> > > - Revisa junto al grupo los obstáculos y buscan resolverlos.
+> > > - Crea las tareas que se realizarán en la semana en el tablero Kanban.
+> > > - Pregunta por la asignación de las tareas.
+> > 
+> > ### Sprint moderator (Es dinámico, cada semana cambia)
+> > > 
+> > > Su rol está enfocado en dinamizar las reuniones diarias del grupo con el objetivo de **priorizar la ejecución de tareas** del grupo y evitar desviaciones de los objetivos de las reuniones.
+> > > 
+> > > - Revisar el orden del día acorde a la planificación de tareas.
+> > > - Moderar las reuniones del equipo en función de los objetivos de la reunión.
+> > > - Evita desviaciones de los objetivos de las reuniones.
+> > > - Controlar los tiempos de las reuniones y el respeto por estos espacios.
+> > 
+> > ### Sprint team
+> > 
+> > > Todos los miembros del equipo hacen parte del Sprint Team y por lo tanto adquieren las mismas responsabilidad en el cumplimiento de las tareas planteadas.
+> > >
+> > > - Escogen sus tareas de acuerdo a sus habilidades y compromiso.
+> > > - Participan y proponen ideas en las reuniones del equipo.
+> > > - Reparten sus tareas adecuadamente y se preocupan por el proyecto.
+> > 
+> > ## Roles Data Science
+> > 
+> > ### Data Architect
+> > 
+> > > Diseña y gestiona la arquitectura de los datos para garantizar que se capturen, almacenen, procesen y utilicen de manera eficiente y efectiva.
 > > > - Establece el plan para la estructura de los datos asegurando coherencia con los objetivos del proyecto.
 > > > - Desarrolla modelos y esquemas de los datos.
 > > > - Diseña estrategias para integrar los datos de múltiples fuentes.
@@ -375,13 +374,3 @@
 > > > 
 > > > </aside>
 > > > 
-
-![Untitled](Definir%20metodologi%CC%81a%20de%20trabajo%20aeb817e90a574a18af42f3c7728a5c50/Untitled.png)
-
-![Untitled](Definir%20metodologi%CC%81a%20de%20trabajo%20aeb817e90a574a18af42f3c7728a5c50/Untitled%201.png)
-
-![Untitled](Definir%20metodologi%CC%81a%20de%20trabajo%20aeb817e90a574a18af42f3c7728a5c50/Untitled%202.png)
-
-![Untitled](Definir%20metodologi%CC%81a%20de%20trabajo%20aeb817e90a574a18af42f3c7728a5c50/Untitled%203.png)
-
-![Untitled](Definir%20metodologi%CC%81a%20de%20trabajo%20aeb817e90a574a18af42f3c7728a5c50/Untitled%204.png)
