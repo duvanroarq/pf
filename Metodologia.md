@@ -1,8 +1,6 @@
 ![Metodología](vis/v1.jpg)
 ---
-<div align="justify">
 `En este archivo encuentra la descripción del sistema de principios, técnicas y procedimientos definidos por el equipo de trabajo de datadiip para organizar y ejecutar las actividades del proyecto en mención.`
-</div>
 ---
 ![Intro](vis/v3.jpg)
 
@@ -30,11 +28,11 @@
 > > 
 > > > En este caso la planificación de las tareas se hace de manera **semanal**, un enfoque menos estricto y más realista en tiempo que el propuesto en las metodologías tradicionales, que permite asignar las tareas a las **necesidades** del proyecto semanal.
 > 
+> ![SCRUMBAN](vis/v2.jpg)
+>
 > ## ¿Por qué SCRUMBAN?
 > 
 > > Este marco de trabajo es una combinación única de estructura y flexibilidad que nos permite aprovechar las ventajas de ambas metodologías con un un enfoque más **adaptable** y **menos estricto**.
-> > 
-> > ![SCRUMBAN](vis/v2.jpg)
 > > 
 > > ### Flexibilidad
 > > 
@@ -53,113 +51,76 @@
 > > > Los tableros de progreso son **visibles para todos**, lo que facilita la comunicación y la colaboración en torno a las tareas y objetivos del proyecto.
 ---
 ![ciclo](vis/v5.jpg)
-## Ciclo de trabajo
 
-> En cada uno de los sprints existen unas actividades predefinidas que marcan la organización del trabajo semanal
+> En cada uno de los sprints existen unas **actividades predefinidas** que establecen la organización del trabajo semanal, estas actividades son:
 > 
+> ## Definición de requerimientos
 > 
-> ### Definición de requerimientos
+> > Se revisan las solicitudes del Product Owner en cuanto a las **necesidades del cliente**, se establecen los **objetivos de la semana** y qué **productos** se van a entregar al finalizar el sprint.
 > 
-> > Se revisan las solicitudes del Product Owner, se establecen los objetivos de la semana y qué productos se van a entregar al finalizar el sprint.
+> ## Creación y asignación del backlog
 > 
-> ### Creación del backlog
+> > Se crean las **tareas del equipo** y se hace una **planificación y asignación** de estas tareas teniendo en cuenta los requerimientos semanales.
 > 
-> > Se crean las tareas del equipo y se hace una planificación y asignación de estas tareas.
+> ## Ejecución del sprint
 > 
-> ### Ejecución del sprint
-> 
-> > Desarrollo de las tareas del sprint y seguimiento a través de reuniones diarias.
+> > **Se desarrollan las tareas** del sprint por cada uno de los integrantes según la asignación del backlog,y se realiza **seguimiento** a través de reuniones diarias.
 > > 
 > 
 > ## Presentación del sprint
 > 
-> > Se establece la presentación al Product Owner de los requerimientos de la semana.
-> > 
+> > Se organiza previamente la **presentación** al Product Owner de los requerimientos de la semana y se establece un periodo de tiempo en el que se realizará la presentación. 
 > 
 > ## Ajustes del sprint
 > 
-> > De acuerdo a la retroalimentación dada por el Product Owner se efectúan las correcciones antes del inicio del siguiente sprint.
+> > De acuerdo a la retroalimentación dada por el Product Owner se **efectúan las correcciones** antes del inicio del siguiente sprint.
 > > 
 
-# Roles
+![roles](vis/v6.jpg)
 
-> La definición de roles nos permite orientar las actividades del grupo en función de las habilidades y experiencias previas del grupo, sin embargo la metodología escogida nos permite ejecutar estos roles de una manera menos estricta, en donde los roles se interpondrán a medida de las necesidades del proyecto.
+> La definición de roles nos permite **orientar las actividades** del grupo en función de las **habilidades y experiencias** previas del grupo, sin embargo la metodología escogida nos permite ejecutar estos roles de una manera **más fléxible**, en donde los roles se pueden intercambiar a medida de las **necesidades** del proyecto.
 > 
 > 
 > ## Roles metodológicos
 > 
-> ### Sprint moderator
+> Esta agrupación de roles nos permite **organizar la estructura del trabajo** y evitar posibles desviaciones en la ejecución de las tareas, se pueden considerar **roles organizacionales** dentro del equipo y su único fin es mejorar la **eficiencia y productividad** del equipo de trabajo.
+>
+> ### Sprint planner
+> > 
+> > Su rol está enfocado en establecer una planificación dinámica, su objetivo es llevar al equipo a la culminación de las tareas de la semana y proponer acciones para resolver posibles obstáculos.
+> > 
+> > - Revisa junto al grupo los obstáculos y buscan resolverlos.
+> > - Crea las tareas que se realizarán en la semana en el tablero Kanban.
+> > - Pregunta por la asignación de las tareas.
 > 
-> > Cada semana cambia
+> ### Sprint moderator (Es dinámico, cada semana cambia)
 > > 
+> > Su rol está enfocado en dinamizar las reuniones diarias del grupo con el objetivo de **priorizar la ejecución de tareas** del grupo y evitar desviaciones de los objetivos de las reuniones.
 > > 
-> > Su rol está enfocado en dinamizar las reuniones diarias del grupo con el objetivo de priorizar la ejecución de tareas del grupo.
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Revisa junto al grupo los obstáculos y buscan resolverlos.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Crea las tareas que se realizarán en la semana en el tablero Kanban.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Pregunta por la asignación de las tareas.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Modera posibles desviaciones de los objetivos de las reuniones.
-> > 
-> > </aside>
-> > 
+> > - Revisar el orden del día acorde a la planificación de tareas.
+> > - Moderar las reuniones del equipo en función de los objetivos de la reunión.
+> > - Evita desviaciones de los objetivos de las reuniones.
+> > - Controlar los tiempos de las reuniones y el respeto por estos espacios.
 > 
 > ### Sprint team
 > 
-> > Todos los miembros del equipo ejecutan las tareas creadas.
-> > 
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Escogen sus tareas de acuerdo a sus habilidades y compromiso.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Participan y proponen ideas en las reuniones del equipo
-> > 
-> > </aside>
-> > 
+> > Todos los miembros del equipo hacen parte del Sprint Team y por lo tanto adquieren las mismas responsabilidad en el cumplimiento de las tareas planteadas.
+> >
+> > - Escogen sus tareas de acuerdo a sus habilidades y compromiso.
+> > - Participan y proponen ideas en las reuniones del equipo.
+> > - Reparten sus tareas adecuadamente y se preocupan por el proyecto.
+
 > 
 > ## Roles Data Science
 > 
 > ### Data Architect
 > 
 > > Diseña y gestiona la arquitectura de los datos para garantizar que se capturen, almacenen, procesen y utilicen de manera eficiente y efectiva.
-> > 
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Establece el plan para la estructura de los datos asegurando coherencia con los objetivos del proyecto.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Desarrolla modelos y esquemas de los datos
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Diseña estrategias para integrar los datos de múltiples fuentes.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Políticas de gobierno de datos.
-> > 
-> > </aside>
-> > 
-> 
+> > > - Establece el plan para la estructura de los datos asegurando coherencia con los objetivos del proyecto.
+> > > - Desarrolla modelos y esquemas de los datos.
+> > > - Diseña estrategias para integrar los datos de múltiples fuentes.
+> > > - Define las políticas de gobierno de datos.
+>
 > ### Data Analyst
 > 
 > > Extrae información significativa que pueda ayudar a la toma de decisiones y al logro de los objetivos organizacionales.
