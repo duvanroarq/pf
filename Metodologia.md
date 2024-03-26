@@ -2,7 +2,8 @@
 
 <h1 align="center"> Metodología de desarrollo del proyecto </h1>
 
-`En este archivo encuentra la descripción del sistema de principios, técnicas y procedimientos definidos por el equipo de trabajo de datadiip para organizar y ejecutar las actividades del proyecto en mención.`
+---
+``*En este archivo encuentra la descripción del sistema de principios, técnicas y procedimientos definidos por el equipo de trabajo de datadiip para organizar y ejecutar las actividades del proyecto en mención.*``
 ---
 ## Introducción
 
