@@ -109,7 +109,7 @@
 > > > - Escogen sus tareas de acuerdo a sus habilidades y compromiso.
 > > > - Participan y proponen ideas en las reuniones del equipo.
 > > > - Reparten sus tareas adecuadamente y se preocupan por el proyecto.
-> > 
+>
 > > ## Roles Data Science
 > > 
 > > ### Data Architect
@@ -119,84 +119,30 @@
 > > > - Desarrolla modelos y esquemas de los datos.
 > > > - Diseña estrategias para integrar los datos de múltiples fuentes.
 > > > - Define las políticas de gobierno de datos.
->
-> ### Data Analyst
-> 
-> > Extrae información significativa que pueda ayudar a la toma de decisiones y al logro de los objetivos organizacionales.
 > > 
+> > ### Data Analyst
 > > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Usa técnicas y herramientas estadísticas para explorar los conjuntos de datos e identificar información.
+> > > Extrae información significativa que pueda ayudar a la toma de decisiones y al logro de los objetivos organizacionales.
+> > > - Usa técnicas y herramientas estadísticas para explorar los conjuntos de datos e identificar información.
+> > > - Limpia y prepara los datos para su análisis.
+> > > - Crea y presenta informes con el uso de herramientas de storytelling y visualización.
+> > > - Utiliza modelos de predicción para analizar resultados futuros.
 > > 
-> > </aside>
+> > ### Data Engineer
 > > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Limpia y prepara los datos para su análisis.
+> > > Diseña, construye y mantiene los sistemas y arquitecturas que permiten el procesamiento y análisis eficiente de grandes volúmenes de datos.
+> > > - Crea y mantiene flujos de trabajo robustos y escalables que reúnan datos de diferentes fuentes y realicen un proceso de ETL.
+> > > - Integra datos de diferentes fuentes.
+> > > - Diseña, implementa y gestiona almacenes de datos de forma eficiente.
+> > > - Optimiza el rendimiento de los sistemas de datos mediante indexación y ajustes.
 > > 
-> > </aside>
+> > ### Machine Learning Engineer
 > > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Crea y presenta informes con el uso de herramientas de storytelling y visualización.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Utiliza modelos de predicción para analizar resultados futuros.
-> > 
-> > </aside>
-> > 
-> 
-> ### Data Engineer
-> 
-> > Diseña, construye y mantiene los sistemas y arquitecturas que permiten el procesamiento y análisis eficiente de grandes volúmenes de datos.
-> > 
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Crea y mantiene flujos de trabajo robustos y escalables que reúnan datos de diferentes fuentes y realicen un proceso de ETL.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Integra datos de diferentes fuentes.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Diseña, implementa y gestiona almacenes de datos de forma eficiente.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Optimiza el rendimiento de los sistemas de datos mediante indexación y ajustes.
-> > 
-> > </aside>
-> > 
-> 
-> ### Machine Learning Engineer
-> 
-> > Diseña, implementa y mantiene los sistemas de aprendizaje automático para realizar modelos de predicción.
-> > 
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Establece los conjuntos de datos que usará para entrenar los modelos de aprendizaje y normalizar para un mayor rendimiento.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Diseña, implementa y evalúa modelos de aprendizaje automático.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Ajusta y optimiza los hiperparámetros para mejorar el rendimiento y precisión del modelo.
-> > 
-> > </aside>
-> > 
-> > <aside>
-> > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Implementa los modelos entrenados en APIs y servicios en la nube.
-> > 
-> > </aside>
-> > 
+> > > Diseña, implementa y mantiene los sistemas de aprendizaje automático para realizar modelos de predicción.
+> > > - Establece los conjuntos de datos que usará para entrenar los modelos de aprendizaje y normalizar para un mayor rendimiento.
+> > > - Diseña, implementa y evalúa modelos de aprendizaje automático.
+> > > - Ajusta y optimiza los hiperparámetros para mejorar el rendimiento y precisión del modelo.
+> > > - Implementa los modelos entrenados en APIs y servicios en la nube.
 
 # Eventos
 
