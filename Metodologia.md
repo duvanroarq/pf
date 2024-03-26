@@ -159,20 +159,20 @@
 > >
 > > ### Sprint 2 - Data Engineering
 > > > 01 | Abril | 2024 → 05 | Abril | 2024
-> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
-> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> > > Su objetivo es establecer el flujo de trabajo de los datos y establecerlos a un nivel de calidad que permita analizarlos.
+> > > - **ENTREGABLE:** Documentación del ETL, pipeline, modelo ER y el MVP.
 > >
 > > ### Sprint 3 - Data Analytics & ML
 > > > 08 | Abril | 2024 → 12 | Abril | 2024
-> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
-> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> > > Su objetivo es crear las visualizaciones que serán la herramienta de la presentación y el modelo de aprendizaje en función de los objetivos planteados.
+> > > - **ENTREGABLE:** Documentación del dashboard y el modelo de Machine Learning.
 > >
 > > ### Sprint 4 - Data plus
 > > > 15 | Abril | 2024 → 19 | Abril | 2024
-> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
-> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> > > Su objetivo es detallar la documentación, realizar el video de presentación, establecer el Storytelling de la sustentación y trabajar en los adicionales.
+> > > - **ENTREGABLE:** Documentación final, video y adicionales.
 >
-> > ## Reuniones
+> ## Reuniones
 >
 > > Se presentan las diferentes reuniones que tendrá el equipo para comunicar sus avances, problemas y tomar decisiones sobre el proyecto.
 > >
@@ -227,12 +227,12 @@
 > ## Sprint Backlog
 > 
 > > Es una lista semanal de todas las tareas que el equipo se compromete a realizar durante el sprint.
-> > > Puede aumentar en función del tamaño de las tareas.
+> > > - Puede aumentar en función del tamaño de las tareas.
 > 
 > ## Kanban Board
 > 
 > > Es tablero que muestra el flujo de trabajo de las tareas del sprint.
-> > > - Contiene los elementos del Sprin Backlog.
+> > > - Contiene los elementos del Sprint Backlog.
 > > > - Están organizados en etapas de su nivel de progreso.
 > 
 > ## Página del equipo
@@ -240,10 +240,11 @@
 > > Se crea una página en Notion del equipo de trabajo:
 > > > - Contiene las herramientas antes mencionadas.
 > > > - Facilita la creación de apuntes en colaboración.
+> > > [Enlace página](https://duvanroar.notion.site/DataDiip-8f3a971c346a4525986b5b782c500bf1?pvs=74)
 > 
 > ## Repositorio GitHub
 > 
 > > Se crea el repositorio de GitHub para facilitar la colaboración en el desarrollo del proyecto.
-> > > - Contiene toda la documentación del proyecto.
-> > > - Se crean ramas para cada uno de los integrantes del grupo.
-> > > - Se define un GitManager que revisará los cambios y aceptará los pull requests.
+> > - Contiene toda la documentación del proyecto.
+> > - Se crean ramas para cada uno de los integrantes del grupo.
+> > - Se define un GitManager que revisará los cambios y aceptará los pull requests.
