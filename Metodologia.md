@@ -110,7 +110,7 @@
 > > > - Participan y proponen ideas en las reuniones del equipo.
 > > > - Reparten sus tareas adecuadamente y se preocupan por el proyecto.
 >
-> > ## Roles Data Science
+> ## Roles Data Science
 > > 
 > > ### Data Architect
 > > 
