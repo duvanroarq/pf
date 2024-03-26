@@ -1,5 +1,8 @@
 ![Metodología](vis/v1.jpg)
 
+<h1 align="center"> Metodología </h1>
+
+
 # Metodología de desarrollo del proyecto
 
 En el presente repositorio se desarrolla un **análisis** de la problematica de siniestralidad en la capital de Argentina desde el rol de **Analista de Datos** para la Subsecretaría de Planificación de La Movilidad.
