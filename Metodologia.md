@@ -1,13 +1,10 @@
 ![Metodología](vis/v1.jpg)
 
-<h1 align="center"> Metodología </h1>
+<h1 align="center"> Metodología de desarrollo del proyecto </h1>
 
-
-# Metodología de desarrollo del proyecto
-
-En el presente repositorio se desarrolla un **análisis** de la problematica de siniestralidad en la capital de Argentina desde el rol de **Analista de Datos** para la Subsecretaría de Planificación de La Movilidad.
+*En este archivo encuentra la descripción del sistema de principios, técnicas y procedimientos definidos por el equipo de trabajo de datadiip para organizar y ejecutar las actividades del proyecto en mención.*
 ---
-![Int](vis/11.jpg)
+>En nuestro equipo, optamos por implementar una **metodología ágil**, donde el marco de trabajo principal será **Scrumban**, una combinación de Scrum y Kanban. Esta elección nos permite aprovechar la estructura de Scrum y el flujo de trabajo de Kanban que permite la **flexibilización de los roles de trabajo** y la limitación de **trabajo en progreso**.
 
 ## Introducción
 
