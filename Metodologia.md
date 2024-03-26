@@ -144,179 +144,106 @@
 > > > - Ajusta y optimiza los hiperparámetros para mejorar el rendimiento y precisión del modelo.
 > > > - Implementa los modelos entrenados en APIs y servicios en la nube.
 
-# Eventos
+![eventos](vis/v7.jpg)
 
-> Se realiza una definición de las actividades que se van a desarrollar durante el desarrollo del proyecto.
-> 
+> Se realiza una definición de las principales actividades que se van a desarrollar durante el desarrollo del proyecto y ayudarán a establecer la comunicación y la asignación de tareas.
 > 
 > ## Sprints
 > 
 > > El desarrollo del proyecto se dividirá en Sprints con una semana de duración, inician los días Lunes y finalizan el día viernes con la presentación de los entregables de esta semana.
-> > 
-> > 
-> > ### Sp1 -  Planeación y acercamiento
-> > 
-> > 25 | Marzo | 2024 → 29 | Marzo | 2024
-> > 
-> > > Se realiza todos los lunes y determina la ruta de trabajo de la semana.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se revisan las tareas en el tablero Kanban.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se dividen las tareas en función de las habilidades del equipo.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se revisan los resultados de la retroalimentación (si la hay).
-> > > 
-> > > </aside>
-> > > 
-> 
-> ## Reuniones
-> 
-> > Se presentan las diferentes reuniones que tendrá el equipo para comunicar sus avances, problemas y decidir el avance.
-> > 
-> > 
+> >
+> > ### Sprint 1 - Planeación y acercamiento al proyecto
+> > > 25 | Marzo | 2024 → 29 | Marzo | 2024
+> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
+> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> >
+> > ### Sprint 2 - Data Engineering
+> > > 01 | Abril | 2024 → 05 | Abril | 2024
+> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
+> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> >
+> > ### Sprint 3 - Data Analytics & ML
+> > > 08 | Abril | 2024 → 12 | Abril | 2024
+> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
+> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+> >
+> > ### Sprint 4 - Data plus
+> > > 15 | Abril | 2024 → 19 | Abril | 2024
+> > > Su objetivo es acercar al equipo de trabajo al proyecto planteado, establecer los alcances, la metodología y organización del proyecto.
+> > > - **ENTREGABLE:** Documentación del stack tecnológico y el flujo de trabajo.
+>
+> > ## Reuniones
+>
+> > Se presentan las diferentes reuniones que tendrá el equipo para comunicar sus avances, problemas y tomar decisiones sobre el proyecto.
+> >
 > > ### Sprint Planning
-> > 
-> > (30 minutos) 10AM 🇦🇷 | 8AM 🇨🇴
-> > 
+> > (60 minutos) 10:30 AM 🇦🇷 | 8:30 AM 🇨🇴
+> >
 > > > Se realiza todos los lunes y determina la ruta de trabajo de la semana.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se revisan las tareas en el tablero Kanban.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se dividen las tareas en función de las habilidades del equipo.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se revisan los resultados de la retroalimentación (si la hay).
-> > > 
-> > > </aside>
-> > > 
-> > 
-> > ### Daily Scrum (15 minutos) 10AM 🇦🇷 | 8AM 🇨🇴
-> > 
-> > > Reunión de actualización de los avances de Martes a Jueves.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Cada integrante muestra lo que realizó el día anterior y lo que realizará en el día.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se informa si existen dificultades de avance.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se determina como se solucionarán los obstáculos.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se determina los avances que se mostrarán al mentor y las dudas.
-> > > 
-> > > </aside>
-> > > 
-> > 
-> > ### Sprint Review (15 minutos) 2PM 🇦🇷 | 12MM 🇨🇴
-> > 
-> > > Reunión con el mentor asignado.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se presentan las dudas y avances del proyecto.
-> > > 
-> > > </aside>
-> > > 
-> > 
+> > > - Se revisan las tareas en el tablero Kanban.
+> > > - Se dividen las tareas en función de las habilidades del equipo.
+> > > - Se revisan los resultados de la retroalimentación (si la hay).
+> >
+> > ### Daily Scrum
+> > (30 minutos) 10:30 AM 🇦🇷 | 8:30 AM 🇨🇴
+> >
+> > > Se realiza de martes a jueves y consiste en actualizar los avances realizados por el equipo.
+> > > - Cada integrante muestra lo que realizó el día anterior y lo que realizará en el día.
+> > > - Se informa si existen dificultades de avance.
+> > > - Se determina como se solucionarán los obstáculos.
+> > > - Se determina los avances que se mostrarán al mentor y las dudas.
+> >
+> > ### Sprint Review
+> > (30 minutos) 02:00 PM 🇦🇷 | 12:00 MM 🇨🇴
+> >
+> > > Se realiza reunión con la mentora asignada al equipo de trabajo.
+> > > - Se presentan las dudas y avances del proyecto.
+> >
 > > ### Sprint Demo
-> > 
-> > > Reunión con el Product Owner los días viernes.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se presentan los resultados del trabajo de la semana.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se anotan los comentarios de la retroalimentación del product owner.
-> > > 
-> > > </aside>
-> > > 
-> > 
-> > ### Sprint Feedback (15 minutos)
-> > 
-> > > Reunión posterior a la reunión con el Product Owner los días viernes.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se revisan los comentarios de la retroalimentación del product owner.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Se establecen tareas para corregir los aspectos de la retroalimentación antes de la reunión de inicio Sprint.
-> > > 
-> > > </aside>
-> > > 
-> > 
+> > (30 minutos) 02:00 PM 🇦🇷 | 12:00 MM 🇨🇴
+> >
+> > > Se realiza reunión con el Product Owner los días viernes.
+> > > - Se presentan los resultados del trabajo de la semana.
+> > > - Se anotan los comentarios de la retroalimentación del product owner.
+> >
+> > ### Sprint Feedback
+> > (15 minutos) 02:00 PM 🇦🇷 | 12:00 MM 🇨🇴
+> >
+> > > Se realiza reunión posterior al Sprint Demo.
+> > > - Se revisan los comentarios de la retroalimentación del product owner.
+> > > - Se establecen tareas para corregir los aspectos de la retroalimentación antes de la reunión de inicio Sprint.
+> >
 > > ### Sprint Support
-> > 
+> >
 > > > Reuniones de apoyo determinadas por el equipo para:
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Resolver dudas.
-> > > 
-> > > </aside>
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Comunicar algún problema.
-> > > 
-> > > </aside>
-> > > 
+> > > - Resolver dudas.
+> > > - Comunicar algún problema.
+> > > - Capacitar a los miembros del equipo sobre algún tema.
+>
+![herramientas](vis/v8.jpg)
+
+> Se establecen las herramientas necesarias para la organización del trabajo, la colaboración y la comunicación.
 > 
-> ## Tools
+> ## Sprint Backlog
 > 
-> > Se establecen las herramientas necesarias para la organización del trabajo y la comunicación.
-> > 
-> > 
-> > ### Sprint Backlog
-> > 
-> > Semanal
-> > 
-> > > Es una lista de todas las tareas que el equipo se compromete a realizar durante el sprint.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Puede aumentar en función del tamaño de las tareas.
-> > > 
-> > > </aside>
-> > > 
-> > 
-> > ### Kanban board
-> > 
-> > Tablero que muestra el flujo de trabajo de las tareas del sprint.
-> > 
-> > > Contiene los elementos del Sprint Backlog.
-> > > 
-> > > 
-> > > <aside>
-> > > <img src="https://www.notion.so/icons/target_purple.svg" alt="https://www.notion.so/icons/target_purple.svg" width="40px" /> Organizados en etapas de su progreso.
-> > > 
-> > > </aside>
-> > > 
+> > Es una lista semanal de todas las tareas que el equipo se compromete a realizar durante el sprint.
+> > > Puede aumentar en función del tamaño de las tareas.
+> 
+> ## Kanban Board
+> 
+> > Es tablero que muestra el flujo de trabajo de las tareas del sprint.
+> > > - Contiene los elementos del Sprin Backlog.
+> > > - Están organizados en etapas de su nivel de progreso.
+> 
+> ## Página del equipo
+> 
+> > Se crea una página en Notion del equipo de trabajo:
+> > > - Contiene las herramientas antes mencionadas.
+> > > - Facilita la creación de apuntes en colaboración.
+> 
+> ## Repositorio GitHub
+> 
+> > Se crea el repositorio de GitHub para facilitar la colaboración en el desarrollo del proyecto.
+> > > - Contiene toda la documentación del proyecto.
+> > > - Se crean ramas para cada uno de los integrantes del grupo.
+> > > - Se define un GitManager que revisará los cambios y aceptará los pull requests.
