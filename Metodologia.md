@@ -231,9 +231,9 @@
 > 
 > ## Kanban Board
 > 
-> > Es tablero que muestra el flujo de trabajo de las tareas del sprint.
+> > Es el tablero que muestra el flujo de trabajo de las tareas del sprint.
 > > > - Contiene los elementos del Sprint Backlog.
-> > > - Están organizados en etapas de su nivel de progreso.
+> > > - Está organizado en etapas de acuerdo al nivel de progreso.
 > 
 > ## Página del equipo
 > 
