@@ -1,6 +1,8 @@
 ![Metodología](vis/v1.jpg)
 ---
-`En este archivo encuentra la descripción del **sistema de principios, técnicas y procedimientos** definidos por el equipo de trabajo de datadiip para **organizar y ejecutar** las actividades del proyecto en mención.`
+<div align="justify">
+`En este archivo encuentra la descripción del sistema de principios, técnicas y procedimientos definidos por el equipo de trabajo de datadiip para organizar y ejecutar las actividades del proyecto en mención.`
+</div>
 ---
 ![Intro](vis/v3.jpg)
 
