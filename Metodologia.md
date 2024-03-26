@@ -1,7 +1,6 @@
-![README](vis/0.jpg)
+![Metodología](vis/v1.jpg)
 
-# Proyecto Individual 2 D.A.
-## Siniestros Viales Ciudad Autónoma de Buenos Aires
+# Metodología de desarrollo del proyecto
 
 En el presente repositorio se desarrolla un **análisis** de la problematica de siniestralidad en la capital de Argentina desde el rol de **Analista de Datos** para la Subsecretaría de Planificación de La Movilidad.
 ---
